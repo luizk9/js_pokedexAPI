@@ -2,7 +2,7 @@
 1-Etapa - pokedex em JavaScript
 </h1>
 
-<h6 align="center">Bootcamp - Desafio - pokedex com JavaScript -HTML e CSS.</h6>
+<h6 align="center">Bootcamp-DIO - Desafio - pokedex com JavaScript -HTML e CSS.</h6>
 </br>
 
 [![pokedex em JavaScript](img/pokedexAPI.png)
